@@ -4,7 +4,6 @@
 
 def roll
   # code goes here
-  (1...6)
+  rand(1...6)
 end
 
-roll
